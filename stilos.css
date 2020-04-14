@@ -1,0 +1,86 @@
+h1{
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(back.jpg);
+    background-size: 1550px;
+     padding:20px;
+     border-style: solid;
+     border-color: green;
+    
+}
+#menu ul {
+    padding: 0px;
+    margin: -10px;
+    margin-top: -15px;
+    float: center;
+    width: 100%;
+    background-color:#EDEDED;
+    list-style:none;
+    font:80% Tahoma;
+    text-align: center;
+}
+#menu ul li { display: inline-block; }
+ 
+		#menu ul li a {
+            height: 25px;
+            line-height: 25px;
+            width: 180px;
+            display: inline-block;
+            border: 1px solid #dcdce9;
+            color: green;
+            text-decoration: none;
+            text-align: center;
+        
+			
+		}
+ 
+		#menu ul li a:hover {
+			background-color:#D6D6D6;
+			color: #6D6D6D;
+			border-bottom:1px solid green;
+        }
+.corpo{
+ width: 960px;
+ margin: auto;
+}
+.conteudo1{
+    display: table;
+
+}
+.imagem1{
+    display: table-cell;
+    float: left;
+    margin-left: -35px;
+}
+.texto1{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 11px;
+   
+}
+.corpo2{
+    width: 960px;
+    margin: auto;
+}
+.imagem2{
+    display: table-cell;
+    float: left;
+
+}
+.texto2{
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-left: 25px;
+}
+.conteudo3{
+    text-align: center;
+    margin-top: 270px;
+    
+
+}
+   
+    
